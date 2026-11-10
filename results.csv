@@ -1,0 +1,21 @@
+timestamp,participant,task_type,trial,visual_condition,contrast,size,brightness_pct,contrast_ratio,stimulus,distance_px,target_size_px,time_sec,misses,response,ease_1to5
+2026-11-10 01:22:45,123,Identification,1,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,Necker cube,,,2.801,,Front face is lower-left,3
+2026-11-10 01:22:46,123,Identification,2,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,Rubin's vase,,,1.474,,Two faces,3
+2026-11-10 01:23:01,123,Target Hitting,1,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,500,40,2.37,0,hit,3
+2026-11-10 01:23:08,123,Target Hitting,2,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,500,20,0.991,0,hit,3
+2026-11-10 01:23:10,123,Target Hitting,3,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,150,80,0.809,0,hit,3
+2026-11-10 01:23:12,123,Target Hitting,4,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,150,80,0.501,0,hit,3
+2026-11-10 01:23:16,123,Target Hitting,5,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,500,20,1.694,0,hit,3
+2026-11-10 01:23:19,123,Target Hitting,6,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,150,40,1.012,1,hit,3
+2026-11-10 01:23:21,123,Target Hitting,7,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,300,40,0.94,0,hit,3
+2026-11-10 01:23:24,123,Target Hitting,8,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,500,40,1.182,0,hit,3
+2026-11-10 01:23:27,123,Target Hitting,9,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,300,20,1.297,0,hit,3
+2026-11-10 01:23:29,123,Target Hitting,10,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,150,20,1.237,0,hit,3
+2026-11-10 01:23:31,123,Target Hitting,11,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,500,80,0.967,1,hit,3
+2026-11-10 01:23:33,123,Target Hitting,12,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,150,20,0.914,0,hit,3
+2026-11-10 01:23:36,123,Target Hitting,13,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,300,80,0.952,0,hit,3
+2026-11-10 01:23:38,123,Target Hitting,14,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,300,20,1.124,1,hit,3
+2026-11-10 01:23:41,123,Target Hitting,15,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,300,80,1.032,0,hit,3
+2026-11-10 01:23:43,123,Target Hitting,16,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,300,40,1.315,1,hit,3
+2026-11-10 01:23:45,123,Target Hitting,17,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,500,80,0.924,0,hit,3
+2026-11-10 01:23:48,123,Target Hitting,18,High contrast | Medium size | 55% brightness,High,Medium,55,6.25,,150,40,1.043,0,hit,3
